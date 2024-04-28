@@ -24,13 +24,13 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="pendaftaran.html" >Pendaftaran</a>
+                            <a class="nav-link" aria-current="page" href="pemesanan.php" >Pendaftaran</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="rekap.html">Daftar Pesan</a>
+                            <a class="nav-link" aria-current="page" href="rekap.php">Daftar Pesan</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="tentangkami.html">Tentang Kami</a>
+                            <a class="nav-link" aria-current="page" href="tentangkami.php">Tentang Kami</a>
                         </li>
                     </ul>
                 </div>
